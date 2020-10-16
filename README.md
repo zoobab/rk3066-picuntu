@@ -1,3 +1,4 @@
+[![noswpatv3](http://zoobab.wdfiles.com/local--files/start/noupcv3.jpg)](https://ffii.org/donate-now-to-save-europe-from-software-patents-says-ffii/)
 # rk3066-picuntu
 RK3066 picuntu firmware for UG802 (Allwinner A10)
 
